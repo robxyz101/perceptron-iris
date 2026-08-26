@@ -2,7 +2,7 @@
 
 A from-scratch Python implementation of Rosenblatt's Perceptron, applied to a binary classification problem using the famous Iris dataset.
 
-## 🧠 About the Project
+## About the Project
 
 This project demonstrates the fundamental concepts of machine learning by implementing the classic Perceptron algorithm (invented in 1957 by Frank Rosenblatt) using only standard numerical libraries.
 
@@ -17,7 +17,7 @@ The model is trained to distinguish between two flower species (*Iris-setosa* an
 
 ---
 
-## 🧮 The Mathematical Model
+## The Mathematical Model
 
 Beyond the NumPy implementation, the Perceptron is built on a surprisingly simple mathematical foundation. Here's the theory behind the code.
 
@@ -65,7 +65,7 @@ If the classes were **not** linearly separable, the Perceptron would never conve
 
 ---
 
-## 🎓 What I Learned
+## What I Learned
 
 Working on this project helped me understand:
 
